@@ -2,7 +2,6 @@
 
 Ce projet est une application de bureau qui utilise l'IA d'OpenAI pour analyser des fichiers de résultats biologiques (`.hpr`, `.hl7`) et générer un rapport d'interprétation au format Word.
 
-*(Optionnel : Insérez ici une capture d'écran ou un GIF de l'application en action)*
 
 ## Fonctionnalités
 
