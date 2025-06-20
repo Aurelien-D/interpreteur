@@ -7,8 +7,8 @@ Ce projet est une application de bureau qui utilise l'IA d'OpenAI pour analyser 
 
 * Interface graphique simple et intuitive avec Tkinter.
 * Sécurisation de la clé API OpenAI par chiffrement et via le trousseau du système d'exploitation.
-* [cite_start]Analyse du contenu du fichier HPR via un prompt personnalisable.
-* [cite_start]Génération d'un rapport `.docx` propre et formaté, basé sur un modèle.
+*  Analyse du contenu du fichier HPR via un prompt personnalisable.
+*  Génération d'un rapport `.docx` propre et formaté, basé sur un modèle.
 
 ## Démo (Installation et Utilisation)
 
@@ -27,8 +27,8 @@ Ce projet est une application de bureau qui utilise l'IA d'OpenAI pour analyser 
 
 3.  **Lancement :**
     * Double-cliquez sur `interpreteur.exe` pour lancer l'application.
-    * [cite_start]Entrez le mot de passe que vous avez défini lors de la configuration.
-    * [cite_start]Cliquez sur "Générer Rapport" et sélectionnez votre fichier d'analyse.
+    *  Entrez le mot de passe que vous avez défini lors de la configuration.
+    *  Cliquez sur "Générer Rapport" et sélectionnez votre fichier d'analyse.
 
 ## Pour les développeurs
 
