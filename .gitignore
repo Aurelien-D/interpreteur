@@ -1,0 +1,20 @@
+# Fichier de configuration chiffré - NE JAMAIS PARTAGER
+config.enc
+
+# Fichiers de cache et d'environnement Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+ENV/
+env/
+api.env
+
+# Fichiers de compilation PyInstaller
+/build/
+/dist/
+*.spec
+
+# Fichiers système (macOS, Windows)
+.DS_Store
+Thumbs.db

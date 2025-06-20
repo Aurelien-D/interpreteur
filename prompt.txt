@@ -1,0 +1,13 @@
+Analyse en profondeur ce fichier d'analyses HPRIM.
+
+**Instructions:**
+
+1.  **Points Positifs:** Identifie et liste les aspects rassurants ou normaux du bilan.
+2.  **Points à Surveiller:**  Mets en évidence les valeurs anormales ou limites qui pourraient nécessiter une attention particulière ou des examens complémentaires.
+3.  **Conclusion:**  Rédige une conclusion générale résumant l'interprétation et les recommandations.
+
+Ignore les paramètres suivants dans ton analyse, sauf indication contraire : HEMBI (sauf si >0, signe d'hémolyse), TGASP, /ASP3, et MDRD.
+
+**Contenu du fichier HPR :**
+
+{hpr_content}
